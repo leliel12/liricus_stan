@@ -7,4 +7,3 @@ matplotlib
 seaborn
 pandas
 joblib
-scikit-plot
